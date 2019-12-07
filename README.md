@@ -2,13 +2,13 @@
 Group 7's repo for ECE 143 final project, Fall 2019
 
 # Datasets
-- Framingham: http://archive.ics.uci.edu/ml/datasets/Heart+Disease
+- Framingham: https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
   - Dataset from Framingham, Massachuetts
 
 - Z-Alizadeh Sani: https://archive.ics.uci.edu/ml/datasets/Z-Alizadeh+Sani#
   - data collected Dr Zahra Alizadeh Sani et al. from Iran University
 
-- UCI Heart Disease dataset: https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
+- UCI Heart Disease dataset: http://archive.ics.uci.edu/ml/datasets/Heart+Disease
   - This is actually a collection of datasets from 4 different locations (two University Hospitals in Switzerland, Hungarian Institute of Cardiology in Budapest, and the V.A. Medical Centers in Long Beach and Cleveland). Of these datasets, the files we used were hungarian.data, long-beach-va.data, switzerland.data, and new.data.
 
 The files for these datasets are included with this repo for convenience.
