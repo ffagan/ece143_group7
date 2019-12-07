@@ -32,7 +32,7 @@ The files for these datasets are included with this repo for convenience.
   - new.data: original file for UCI "new" dataset
   - switzerland.data: original file for UCI Switzerland dataset
 - Data Visualizations.ipynb: Jupyter Notebook where the above functions are used to produce the visualizations used in our presentation
-- ECE_143_Final_Project_7_v1: Our group's presentation
+- ECE_143_Final_Project_7_v1.pptx: Our group's presentation
 
 # Dependencies
 The following packages are used to run our code:
@@ -46,3 +46,4 @@ For example, installing matplotlib:
 `pip3 install matplotlib`
 
 # Running code
+Please refer to the notebook `Data Visualizations.ipynb` for reference on how to use our functions.
